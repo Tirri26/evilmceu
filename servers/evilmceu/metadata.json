@@ -1,38 +1,37 @@
 {
-
-  ㅤㅤ"id": "evilmceu",
-  ㅤㅤ"name": "EvilMC",
-  ㅤㅤ"website": "https://evilmc.eu",
-  ㅤㅤ"store": "https://evilmc.eu",
-  ㅤㅤ"description": "Zaawansowana siec serwerow",
-  ㅤㅤ"addresses": [
-  ㅤㅤㅤㅤ"evilmc.eu",
-  ㅤㅤ],
-  ㅤㅤ"primaryAddress": "evilmc.eu",
-  ㅤㅤ"minecraftVersions": [
-  ㅤㅤㅤㅤ"1.21.11"
-  ㅤㅤ],
-  ㅤㅤ"primaryMinecraftVersion": "1.21.11",
-  ㅤㅤ"primaryColor": "#9F27F5",
-  ㅤㅤ"secondaryColor": "#9F27F5",
-  ㅤㅤ"primaryLanguage": "pl",
-  ㅤㅤ"languages": [
-        "pl",
-  ㅤㅤ],
-  ㅤㅤ"primaryRegion": "EU",
-  ㅤㅤ"regions": [
-  ㅤㅤㅤㅤ"EU",
-  ㅤㅤ],
-  ㅤㅤ"gameTypes": [
-  ㅤㅤㅤㅤ"PvP",
-  ㅤㅤ],
-  ㅤㅤ"compliance": {
-  ㅤㅤㅤㅤ"privacyPolicy": "https://evilmc.eu/polityka-prywatnosci",
-  ㅤㅤㅤㅤ"termsOfService": "https://evilmc.eu/regulamin",
-  ㅤㅤㅤㅤ"rules": "https://evilmc.eu/polityka-regulamin",
-  ㅤㅤ},
-  ㅤㅤ"socials": {
-  ㅤㅤㅤㅤ"discord": "https://evilmc.eu/discord"
-  ㅤㅤ},
-  ㅤㅤ"crossplay": false
+  "id": "evilmceu",
+  "name": "EvilMC",
+  "website": "https://evilmc.eu",
+  "store": "https://evilmc.eu",
+  "description": "Zaawansowana siec serwerow",
+  "addresses": [
+    "evilmc.eu"
+  ],
+  "primaryAddress": "evilmc.eu",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#9F27F5",
+  "secondaryColor": "#9F27F5",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://evilmc.eu/polityka-prywatnosci",
+    "termsOfService": "https://evilmc.eu/regulamin",
+    "rules": "https://evilmc.eu/polityka-regulamin"
+  },
+  "socials": {
+    "discord": "https://evilmc.eu/discord"
+  },
+  "crossplay": false
 }
